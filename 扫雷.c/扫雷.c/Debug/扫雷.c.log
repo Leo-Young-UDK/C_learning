@@ -1,0 +1,17 @@
+﻿生成启动时间为 2022/1/7 16:39:03。
+     1>项目“D:\BaiduNetdiskDownload\qian\计算机学习记录\C语言\code\扫雷.c\扫雷.c\扫雷.c.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\扫雷.c.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt game.c
+         game.c
+     1>d:\baidunetdiskdownload\qian\计算机学习记录\c语言\code\扫雷.c\扫雷.c\game.c(120): error C2057: 应输入常量表达式
+     1>d:\baidunetdiskdownload\qian\计算机学习记录\c语言\code\扫雷.c\扫雷.c\game.c(120): error C2466: 不能分配常量大小为 0 的数组
+     1>d:\baidunetdiskdownload\qian\计算机学习记录\c语言\code\扫雷.c\扫雷.c\game.c(120): error C2087: “show”: 缺少下标
+     1>d:\baidunetdiskdownload\qian\计算机学习记录\c语言\code\扫雷.c\扫雷.c\game.c(120): error C2099: 初始值设定项不是常量
+     1>d:\baidunetdiskdownload\qian\计算机学习记录\c语言\code\扫雷.c\扫雷.c\game.c(121): warning C4048: “char (*)[11]”和“int [][1]”数组的下标不同
+     1>已完成生成项目“D:\BaiduNetdiskDownload\qian\计算机学习记录\C语言\code\扫雷.c\扫雷.c\扫雷.c.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.32
